@@ -1,0 +1,116 @@
+172.16.1.100_External.xml,Security Update for Microsoft Excel 2010 (KB4462230) 32-Bit Edition,Office Security Updates,,4462230,FALSE,3
+172.16.1.100_External.xml,Security Update for Microsoft Office 2010 (KB2553332) 32-Bit Edition,Office Security Updates,,2553332,FALSE,3
+172.16.1.100_External.xml,Security Update for Microsoft Office 2010 (KB3114565) 32-Bit Edition,Office Security Updates,,3114565,FALSE,3
+172.16.1.100_External.xml,Security Update for Microsoft Office 2010 (KB3213636) 32-Bit Edition,Office Security Updates,,3213636,FALSE,3
+172.16.1.100_External.xml,Security Update for Microsoft Office 2010 (KB4462177) 32-Bit Edition,Office Security Updates,,4462177,FALSE,3
+172.16.1.100_External.xml,Security Update for Microsoft Office 2010 (KB4462223) 32-Bit Edition,Office Security Updates,,4462223,FALSE,3
+172.16.1.100_External.xml,Security Update for Microsoft Office 2010 (KB4464520) 32-Bit Edition,Office Security Updates,,4464520,FALSE,3
+172.16.1.100_External.xml,Security Update for Microsoft Office Compatibility Pack Service Pack 3 (KB4011717),Office Security Updates,,4011717,FALSE,3
+172.16.1.100_External.xml,Security Update for Microsoft Office Compatibility Pack Service Pack 3 (KB4018354),Office Security Updates,,4018354,FALSE,3
+172.16.1.100_External.xml,Security Update for Microsoft Office Excel Viewer 2007 (KB4011719),Office Security Updates,,4011719,FALSE,3
+172.16.1.100_External.xml,Security Update for Microsoft Outlook 2010 (KB4461623) 32-Bit Edition,Office Security Updates,,4461623,FALSE,3
+172.16.1.100_External.xml,Security Update for Microsoft PowerPoint 2010 (KB4461521) 32-Bit Edition,Office Security Updates,,4461521,FALSE,3
+172.16.1.100_External.xml,Security Update for Microsoft PowerPoint Viewer 2010 (KB4022138) 32-Bit Edition,Office Security Updates,,4022138,FALSE,3
+172.16.1.100_External.xml,Security Update for Microsoft Publisher 2010 (KB4011186) 32-Bit Edition,Office Security Updates,,4011186,FALSE,3
+172.16.1.100_External.xml,Security Update for Microsoft Word 2010 (KB4461625) 32-Bit Edition,Office Security Updates,,4461625,FALSE,3
+172.16.1.100_Internal.xml,2018-04 Security Only Quality Update for Windows 7 for x64-based Systems (KB4093108),Windows Security Updates,,4093108,FALSE,4
+172.16.1.100_Internal.xml,2018-05 Security Only Quality Update for Windows 7 for x64-based Systems (KB4103712),Windows Security Updates,,4103712,FALSE,4
+172.16.1.100_Internal.xml,"2018-05 Security Only Update for .NET Framework 3.5.1, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1 on Windows 7 and Server 2008 R2 for x64 (KB4099637)",Windows Security Updates,,4099637,FALSE,3
+172.16.1.100_Internal.xml,2018-06 Security Only Quality Update for Windows 7 for x64-based Systems (KB4284867),Windows Security Updates,,4284867,FALSE,4
+172.16.1.100_Internal.xml,2018-07 Security Only Quality Update for Windows 7 for x64-based Systems (KB4338823),Windows Security Updates,,4338823,FALSE,3
+172.16.1.100_Internal.xml,"2018-07 Security Only Update for .NET Framework 3.5.1, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1, 4.7.2 for Windows 7 and Server 2008 R2 for x64 (KB4340004)",Windows Security Updates,,4340004,FALSE,3
+172.16.1.100_Internal.xml,2018-08 Security Only Quality Update for Windows 7 for x64-based Systems (KB4343899),Windows Security Updates,,4343899,FALSE,4
+172.16.1.100_Internal.xml,"2018-08 Security Only Update for .NET Framework 3.5.1, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1, 4.7.2 for Windows 7 and Server 2008 R2 for x64 (KB4345679)",Windows Security Updates,,4345679,FALSE,3
+172.16.1.100_Internal.xml,2018-09 Security Only Quality Update for Windows 7 for x64-based Systems (KB4457145),Windows Security Updates,,4457145,FALSE,4
+172.16.1.100_Internal.xml,2018-10 Security Only Quality Update for Windows 7 for x64-based Systems (KB4462915),Windows Security Updates,,4462915,FALSE,4
+172.16.1.100_Internal.xml,2018-11 Security Only Quality Update for Windows 7 for x64-based Systems (KB4467106),Windows Security Updates,,4467106,FALSE,4
+172.16.1.100_Internal.xml,2018-12 Security Only Quality Update for Windows 7 for x64-based Systems (KB4471328),Windows Security Updates,,4471328,FALSE,3
+172.16.1.100_Internal.xml,"2018-12 Security Only Update for .NET Framework 3.5.1, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1, 4.7.2 for Windows 7 and Server 2008 R2 for x64 (KB4471981)",Windows Security Updates,,4471981,FALSE,3
+172.16.1.100_Internal.xml,2019-01 Security Only Quality Update for Windows 7 for x64-based Systems (KB4480960),Windows Security Updates,,4480960,FALSE,3
+172.16.1.100_Internal.xml,"2019-02 Security and Quality Rollup for .NET Framework 3.5.1, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1, 4.7.2 for Windows 7 and Server 2008 R2 for x64 (KB4487078)",Windows Security Updates,,4487078,FALSE,3
+172.16.1.100_Internal.xml,2019-02 Security Only Quality Update for Windows 7 for x64-based Systems (KB4486564),Windows Security Updates,,4486564,FALSE,4
+172.16.1.100_Internal.xml,"2019-02 Security Only Update for .NET Framework 3.5.1, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1, 4.7.2 for Windows 7 and Server 2008 R2 for x64 (KB4487121)",Windows Security Updates,,4487121,FALSE,3
+172.16.1.100_Internal.xml,2019-03 Security Only Quality Update for Windows 7 for x64-based Systems (KB4489885),Windows Security Updates,,4489885,FALSE,4
+172.16.1.100_Internal.xml,2019-03 Security Update for Windows 7 for x64-based Systems (KB4474419),Windows Security Updates,,4474419,FALSE,4
+172.16.1.100_Internal.xml,2019-03 Servicing Stack Update for Windows 7 for x64-based Systems (KB4490628),Windows Security Updates,,4490628,FALSE,4
+172.16.1.100_Internal.xml,2019-04 Cumulative Security Update for Internet Explorer 11 for Windows 7 for x64-based systems (KB4493435),Windows Security Updates,,4493435,FALSE,4
+172.16.1.100_Internal.xml,2019-04 Security Monthly Quality Rollup for Windows 7 for x64-based Systems (KB4493472),Windows Security Updates,,4493472,FALSE,4
+172.16.1.100_Internal.xml,2019-04 Security Only Quality Update for Windows 7 for x64-based Systems (KB4493448),Windows Security Updates,,4493448,FALSE,4
+172.16.1.100_Internal.xml,Security Update for Microsoft Access 2013 (KB4018351) 32-Bit Edition,Office Security Updates,,4018351,FALSE,3
+172.16.1.100_Internal.xml,Security Update for Microsoft Excel 2013 (KB4462209) 32-Bit Edition,Office Security Updates,,4462209,FALSE,3
+172.16.1.100_Internal.xml,Security Update for Microsoft InfoPath 2013 (KB3162075) 32-Bit Edition,Office Security Updates,,3162075,FALSE,3
+172.16.1.100_Internal.xml,Security Update for Microsoft Office 2013 (KB3172522) 32-Bit Edition,Office Security Updates,,3172522,FALSE,3
+172.16.1.100_Internal.xml,Security Update for Microsoft Office 2013 (KB4022237) 32-Bit Edition,Office Security Updates,,4022237,FALSE,3
+172.16.1.100_Internal.xml,Security Update for Microsoft Office 2013 (KB4462204) 32-Bit Edition,Office Security Updates,,4462204,FALSE,3
+172.16.1.100_Internal.xml,Security Update for Microsoft Office 2013 (KB4464504) 32-Bit Edition,Office Security Updates,,4464504,FALSE,3
+172.16.1.100_Internal.xml,Security Update for Microsoft Outlook 2013 (KB4461595) 32-Bit Edition,Office Security Updates,,4461595,FALSE,3
+172.16.1.100_Internal.xml,Security Update for Microsoft PowerPoint 2013 (KB4461481) 32-Bit Edition,Office Security Updates,,4461481,FALSE,3
+172.16.1.100_Internal.xml,Security Update for Microsoft Project 2013 (KB4461489) 32-Bit Edition,Office Security Updates,,4461489,FALSE,3
+172.16.1.100_Internal.xml,Security Update for Microsoft Word 2013 (KB4461594) 32-Bit Edition,Office Security Updates,,4461594,FALSE,3
+172.16.1.103_Internal.xml,Security Update for Microsoft Office 2013 (KB4464561) 32-Bit Edition,Office Security Updates,,4464561,FALSE,3
+172.16.1.103_Internal.xml,"2019-05 Security and Quality Rollup for .NET Framework 3.5.1, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1, 4.7.2, 4.8 for Windows 7 and Server 2008 R2 for x64 (KB4499406)",Windows Security Updates,,4499406,FALSE,3
+172.16.1.103_Internal.xml,2019-05 Security Only Quality Update for Windows 7 for x64-based Systems (KB4499175),Windows Security Updates,,4499175,FALSE,4
+172.16.1.103_Internal.xml,2019-05 Security Monthly Quality Rollup for Windows 7 for x64-based Systems (KB4499164),Windows Security Updates,,4499164,FALSE,4
+172.16.1.103_Internal.xml,2019-05 Cumulative Security Update for Internet Explorer 11 for Windows 7 for x64-based systems (KB4498206),Windows Security Updates,,4498206,FALSE,4
+172.16.1.103_Internal.xml,"2019-05 Security Only Update for .NET Framework 3.5.1, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1, 4.7.2, 4.8 for Windows 7 and Server 2008 R2 for x64 (KB4498961)",Windows Security Updates,,4498961,FALSE,3
+172.16.2.100_Internal.xml,Security Update for Microsoft OneNote 2013 (KB3115256) 32-Bit Edition,Office Security Updates,MS16-099,3115256,FALSE,3
+172.16.2.104_Internal.xml,Security Update for Microsoft XML Core Services 4.0 Service Pack 2 for x64-based Systems (KB954430),Windows Security Updates,MS08-069,954430,FALSE,3
+172.16.2.123_Internal.xml,2017-12 Security Only Quality Update for Windows 7 for x64-based Systems (KB4054521),Windows Security Updates,,4054521,FALSE,3
+172.16.2.123_Internal.xml,2018-02 Security Monthly Quality Rollup for Windows 7 for x64-based Systems (KB4074598),Windows Security Updates,,4074598,FALSE,4
+172.16.3.123_Internal.xml,Security Update for Microsoft Office 2010 (KB4464567) 32-Bit Edition,Office Security Updates,,4464567,FALSE,3
+172.16.6.37_External.xml,Security Update for Microsoft Visual C++ 2005 Service Pack 1 Redistributable Package (KB2538242),"Developer Tools, Runtimes, and Redistributables Security Updates",MS11-025,2538242,FALSE,3
+172.16.6.37_External.xml,Security Update for Office 2003 (KB3203484),Office Security Updates,,3203484,FALSE,3
+172.16.6.37_External.xml,Security Update for Skype for Business 2015 (KB3039779) 32-Bit Edition,Office Security Updates,MS15-044,3039779,FALSE,4
+172.16.6.37_External.xml,Security Update for Microsoft Publisher 2013 (KB3085561) 32-Bit Edition,Office Security Updates,MS15-116,3085561,FALSE,3
+172.16.6.37_External.xml,Security Update for Microsoft Office 2003 (KB2493523),Office Security Updates,MS11-055,2493523,FALSE,3
+172.16.6.37_External.xml,Security Update for Visio 2003 (KB2810062),Office Security Updates,MS13-044,2810062,FALSE,3
+172.16.6.37_External.xml,Security Update for Microsoft Office 2013 (KB3054816) 32-Bit Edition,Office Security Updates,MS15-081,3054816,FALSE,3
+172.16.6.37_External.xml,Security Update for Microsoft Office 2013 (KB3039794) 32-Bit Edition,Office Security Updates,MS16-004,3039794,FALSE,3
+172.16.6.37_External.xml,Security Update for Microsoft Office 2007 suites (KB4011715),Office Security Updates,,4011715,FALSE,3
+172.16.6.37_External.xml,Security Update for Microsoft Office 2013 (KB3213564) 32-Bit Edition,Office Security Updates,,3213564,FALSE,3
+172.16.6.37_External.xml,Security Update for Microsoft Office 2007 suites (KB3213641),Office Security Updates,,3213641,FALSE,4
+172.16.6.37_External.xml,Security Update for Office 2003 (KB2825621),Office Security Updates,MS13-078,2825621,FALSE,3
+172.16.6.37_External.xml,Security Update for Microsoft Office 2013 (KB4011580) 32-Bit Edition,Office Security Updates,,4011580,FALSE,3
+172.16.6.37_External.xml,Security Update for Microsoft Office 2013 (KB3162051) 32-Bit Edition,Office Security Updates,,3162051,FALSE,3
+172.16.6.37_External.xml,Security Update for Microsoft InfoPath 2013 (KB3054793) 32-Bit Edition,Office Security Updates,MS15-116,3054793,FALSE,3
+172.16.6.37_External.xml,Security Update for Microsoft Office 2013 (KB2880463) 32-Bit Edition,Office Security Updates,MS14-023,2880463,FALSE,3
+172.16.6.37_External.xml,Security Update for Microsoft Office 2007 suites (KB2984938),Office Security Updates,MS16-054,2984938,FALSE,3
+172.16.6.37_External.xml,Security Update for Microsoft Office 2010 (KB2596511) 32-Bit Edition,Office Security Updates,MS11-088,2596511,FALSE,3
+172.16.6.37_External.xml,Security Update for Microsoft Office 2013 (KB3039746) 32-Bit Edition,Office Security Updates,MS16-029,3039746,FALSE,3
+172.16.6.37_External.xml,Security Update for Microsoft Office 2013 (KB3039782) 32-Bit Edition,Office Security Updates,MS15-059,3039782,FALSE,3
+172.16.6.37_External.xml,Security Update for Microsoft Office 2013 (KB3039798) 32-Bit Edition,Office Security Updates,MS15-081,3039798,FALSE,4
+172.16.6.37_External.xml,Security Update for Office 2003 (KB2687626),Office Security Updates,MS12-046,2687626,FALSE,3
+172.16.6.37_External.xml,Security Update for Microsoft Office 2003 (KB974554),Office Security Updates,MS09-060,974554,FALSE,3
+172.16.6.37_External.xml,Security Update for Microsoft Office Compatibility Pack Service Pack 3 (KB3213644),Office Security Updates,,3213644,FALSE,3
+172.16.6.37_External.xml,Security Update for Microsoft Office 2007 suites (KB3085549),Office Security Updates,MS15-131,3085549,FALSE,3
+172.16.6.37_External.xml,Security Update for Microsoft InfoPath 2013 (KB3114833) 32-Bit Edition,Office Security Updates,MS16-029,3114833,FALSE,3
+172.16.6.37_External.xml,Security Update for Microsoft Office 2007 suites (KB2596904),Office Security Updates,,2596904,FALSE,3
+172.16.6.37_External.xml,Security Update for Microsoft Office 2007 suites (KB2825645),Office Security Updates,MS15-084,2825645,FALSE,3
+172.16.6.37_External.xml,Security Update for Microsoft Office 2013 (KB2726958) 32-Bit Edition,Office Security Updates,MS14-082,2726958,FALSE,3
+172.16.6.37_External.xml,Security Update for Microsoft Office 2013 (KB3115153) 32-Bit Edition,Office Security Updates,MS16-133,3115153,FALSE,3
+172.16.6.37_External.xml,Security Update for Office 2003 (KB2726929),Office Security Updates,MS12-060,2726929,FALSE,4
+172.16.8.54_Internal.xml,2019-04 Security Update for Adobe Flash Player for Windows 10 Version 1709 for x64-based Systems (KB4493478),Windows Security Updates,,4493478,FALSE,4
+172.16.8.54_Internal.xml,2019-04 Cumulative Update for Windows 10 Version 1709 for x64-based Systems (KB4493441),Windows Security Updates,,4493441,FALSE,4
+172.16.8.54_Internal.xml,2019-02 Servicing Stack Update for Windows 10 Version 1709 for x64-based Systems (KB4485448),Windows Security Updates,,4485448,FALSE,4
+172.16.8.67_Internal.xml,Security Update for Microsoft SharePoint Foundation 2013 (KB4011117)  farm-deployment,Office Security Updates,,4011117,FALSE,3
+172.16.8.67_Internal.xml,2017-10 Cumulative Update for Windows 10 Version 1511 for x64-based Systems (KB4041689),Windows Security Updates,,4041689,FALSE,4
+172.16.8.67_Internal.xml,2017-10 Security Update for Adobe Flash Player for Windows 10 Version 1511 for x64-based Systems (KB4049179),Windows Security Updates,,4049179,FALSE,4
+172.16.8.67_Internal.xml,Security Update for Windows 10 Version 1511 for x64-based Systems (KB3172729),Windows Security Updates,MS16-100,3172729,FALSE,3
+172.16.1.108_External.xml,Security Update for Microsoft Office 2010 (KB2553313) 32-Bit Edition,Office Security Updates,MS15-081,2553313,FALSE,4
+172.16.1.108_External.xml,Security Update for Microsoft InfoPath 2010 (KB3114414) 32-Bit Edition,Office Security Updates,MS16-029,3114414,FALSE,3
+172.16.1.108_External.xml,Security Update for Microsoft PowerPoint 2010 (KB2920812) 32-Bit Edition,Office Security Updates,MS15-022,2920812,FALSE,3
+172.16.1.108_External.xml,Security Update for Microsoft Office 2010 (KB4011610) 32-Bit Edition,Office Security Updates,,4011610,FALSE,3
+172.16.1.108_External.xml,Security Update for Microsoft Office 2010 (KB3213631) 32-Bit Edition,Office Security Updates,,3213631,FALSE,4
+172.16.1.108_External.xml,Security Update for Microsoft Office 2010 (KB2899516) 32-Bit Edition,Office Security Updates,MS15-116,2899516,FALSE,3
+172.16.1.108_External.xml,Security Update for Microsoft Office 2010 (KB3115120) 32-Bit Edition,Office Security Updates,MS16-133,3115120,FALSE,3
+172.16.1.108_External.xml,Security Update for Microsoft Office 2010 (KB3213626) 32-Bit Edition,Office Security Updates,,3213626,FALSE,3
+172.16.1.108_External.xml,Security Update for Microsoft Office 2010 (KB2956063) 32-Bit Edition,Office Security Updates,MS16-029,2956063,FALSE,3
+172.16.1.108_External.xml,Security Update for Microsoft Office 2010 (KB3203468) 32-Bit Edition,Office Security Updates,,3203468,FALSE,3
+172.16.1.108_External.xml,Security Update for Microsoft Office 2010 (KB2880971) 32-Bit Edition,Office Security Updates,MS14-024,2880971,FALSE,3
+172.16.1.108_External.xml,Security Update for Microsoft Office 2010 (KB2956076) 32-Bit Edition,Office Security Updates,MS15-022,2956076,FALSE,3
+172.16.1.108_External.xml,Security Update for Microsoft Office 2010 (KB2881029) 32-Bit Edition,Office Security Updates,MS16-004,2881029,FALSE,3
+172.16.1.108_External.xml,Security Update for Microsoft OneNote 2010 (KB3114885) 32-Bit Edition,Office Security Updates,MS16-099,3114885,FALSE,3
+172.16.1.108_External.xml,Security Update for Microsoft Office 2007 suites (KB2984943),Office Security Updates,MS16-054,2984943,FALSE,3
+172.16.1.108_External.xml,Security Update for Microsoft Office 2010 (KB2850016) 32-Bit Edition,Office Security Updates,MS13-106,2850016,FALSE,3
+172.16.1.108_External.xml,Security Update for Microsoft Office 2010 (KB3191908) 32-Bit Edition,Office Security Updates,,3191908,FALSE,3
+172.16.1.108_External.xml,Security Update for Microsoft Office 2010 (KB2553154) 32-Bit Edition,Office Security Updates,MS14-082,2553154,FALSE,3
